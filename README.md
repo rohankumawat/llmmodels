@@ -1,2 +1,3 @@
-# llmmodels
- Understanding, Practicing, and Learning about LLMs
+# Large Language Models
+
+Understanding, Practicing, and Learning about LLMs
